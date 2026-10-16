@@ -158,7 +158,7 @@ The Arduino was used to reproduce mouse and keyboard interactions that would oth
 
 **Video — Automated computer operation:**
 
-*[video]*
+https://github.com/user-attachments/assets/6a37ecd7-47c1-4de1-b688-377478a41ed6
 
 <br>
 <br>
