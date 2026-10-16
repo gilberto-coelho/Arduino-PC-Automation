@@ -169,8 +169,8 @@ Two Arduino sketches are provided:
 
 | File | Description |
 |---|---|
-| `Coordinate_Finder.ino` | Identifies cursor positions using an LCD and three pushbuttons |
-| `Mouse_Keyboard_Automation.ino` | Demonstrates programmed mouse movements and clicks, with keyboard support |
+| **[Coordinate_Finder.ino](Coordinate_Finder.ino)** | Identifies cursor positions using an LCD and three pushbuttons |
+| **[Mouse_Keyboard_Automation.ino](Mouse_Keyboard_Automation.ino)** | Demonstrates programmed mouse movements and clicks, with keyboard support |
 
 ### Required Libraries
 
