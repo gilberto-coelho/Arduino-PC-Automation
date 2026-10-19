@@ -221,16 +221,6 @@ Also, remember that instructions inside `loop()` execute repeatedly. For practic
 
 <br>
 
-## Skills Demonstrated
-
-- Arduino C/C++ programming
-- USB HID mouse and keyboard emulation
-- Computer automation
-- LCD interfacing
-- Laboratory instrumentation integration
-
-<br>
-
 ## Author
 
 **Gilberto Coelho**
